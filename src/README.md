@@ -8,5 +8,4 @@ In this book, we'll examine the various factors that influence our decisions and
 
 Whether you're seeking to make better personal decisions or looking to enhance your professional decision-making skills, The Decision Hacker has something to offer. By the end of this book, you'll have gained a deeper understanding of how your brain works when making decisions, and you'll be equipped with practical tools and techniques to help you hack your way to better decision-making.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
