@@ -2,8 +2,6 @@
 
 # Introduction
 
-Introduction
-
 Making decisions is a fundamental aspect of our lives. From simple daily choices to complex life-altering ones, we are constantly faced with decisions that require careful consideration and evaluation. However, despite being an essential part of our existence, decision-making can often be a daunting task, especially when we're unsure of which direction to take or what the outcome may be.
 
 The Decision Hacker: Hacking Your Brain for Better Decision-Making is a book designed to help readers gain a better understanding of their decision-making processes and provide them with practical tools and techniques to make better choices. The book draws on insights from cognitive psychology, neuroscience, and behavioral economics to explore how our brains work when making decisions and how we can leverage this knowledge to improve our decision-making abilities.
