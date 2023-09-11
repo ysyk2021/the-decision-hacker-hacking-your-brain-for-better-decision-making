@@ -1,5 +1,3 @@
-The Benefits of Hacking Your Brain for Better Decisions
-================================================================================
 
 In this chapter, we will explore the advantages of "hacking" your brain to improve decision making. We will delve into the various benefits that arise from understanding and optimizing the inner workings of our minds.
 

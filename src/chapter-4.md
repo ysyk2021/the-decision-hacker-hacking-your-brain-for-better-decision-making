@@ -1,5 +1,3 @@
-Chapter 4: Managing Risk and Uncertainty
-========================================
 
 Risk and uncertainty are inherent in decision-making. In this chapter, we will explore how to manage risk and cope with uncertainty by calculating and mitigating risk, developing contingency plans, and developing strategies for coping with ambiguity.
 
@@ -50,5 +48,4 @@ Conclusion
 ----------
 
 Managing risk and coping with uncertainty are critical parts of effective decision-making. By calculating and mitigating risk, developing contingency plans, and developing strategies for coping with ambiguity, decision hackers can make better decisions that have a lower likelihood of negative consequences and are better prepared to handle unexpected events.
-
 

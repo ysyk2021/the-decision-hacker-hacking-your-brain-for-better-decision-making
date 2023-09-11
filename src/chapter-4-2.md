@@ -1,5 +1,3 @@
-Coping with Uncertainty and Ambiguity
-==============================================
 
 Uncertainty and ambiguity are inherent aspects of decision making, and as Decision Hackers, it is crucial to develop strategies for effectively coping with them. In this chapter, we will explore the challenges posed by uncertainty and ambiguity and discuss techniques to enhance our decision-making abilities in these situations.
 

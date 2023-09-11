@@ -1,5 +1,3 @@
-Chapter 5: Utilizing Technology and Tools
-=========================================
 
 Technology and tools can be powerful aids in decision-making. In this chapter, we will explore how to leverage machine learning and artificial intelligence, use decision-support software and tools, and incorporate gamification and simulation into decision-making.
 

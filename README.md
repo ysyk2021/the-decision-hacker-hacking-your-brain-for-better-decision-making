@@ -1,4 +1,6 @@
+# The Decision Hacker: Hacking Your Brain for Better Decision-Making
 
+Book Link: [https://zhengpublishing.com/the-decision-hacker-hacking-your-brain-for-better-decision-making/](https://zhengpublishing.com/the-decision-hacker-hacking-your-brain-for-better-decision-making/)
 
 Making decisions is a fundamental aspect of our lives. From simple daily choices to complex life-altering ones, we are constantly faced with decisions that require careful consideration and evaluation. However, despite being an essential part of our existence, decision-making can often be a daunting task, especially when we're unsure of which direction to take or what the outcome may be.
 

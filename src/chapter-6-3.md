@@ -1,5 +1,3 @@
-Establishing Clear Communication Channels
-==================================================
 
 Effective communication is vital for successful decision making. In this chapter, we will explore the importance of establishing clear communication channels and how it can enhance our decision-making abilities as Decision Hackers.
 

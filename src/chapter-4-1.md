@@ -1,5 +1,3 @@
-Calculating and Mitigating Risk
-========================================
 
 In the world of decision making, risk is an ever-present factor that can greatly impact the outcomes of our choices. In this chapter, we will explore the importance of calculating and mitigating risk, and how it can improve our decision-making abilities as Decision Hackers.
 

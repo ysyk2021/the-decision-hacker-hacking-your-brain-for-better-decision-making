@@ -1,5 +1,3 @@
-Chapter 7: Applying Decision Hacking to Real-World Scenarios
-============================================================
 
 Decision hacking can be a powerful tool for solving complex challenges, developing innovative solutions, and making a positive impact on society. In this chapter, we will explore how decision hacking can be applied to real-world scenarios.
 

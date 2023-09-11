@@ -1,5 +1,3 @@
-Encouraging Collaboration and Diversity of Thought
-===========================================================
 
 Collaboration and diversity of thought are essential components of effective decision making. In this chapter, we will explore the importance of encouraging collaboration and diversity of thought and how it can enhance our decision-making abilities as Decision Hackers.
 

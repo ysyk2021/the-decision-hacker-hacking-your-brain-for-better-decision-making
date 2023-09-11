@@ -1,4 +1,4 @@
-# Conclusion
+
 
 In this book, we have explored the concept of decision hacking and how to hack your brain for better decision-making. We have discussed various techniques, strategies, and tools that can help you make better decisions in your personal and professional life. In this chapter, we will summarize the key takeaways from this book.
 

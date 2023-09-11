@@ -1,5 +1,3 @@
-Defining a Decision Hacker
-===================================================
 
 In this chapter, we will explore the concept of a "Decision Hacker" and its implications for improving decision making. We will delve into the foundations of decision hacking and understand how it can transform our approach to making choices.
 

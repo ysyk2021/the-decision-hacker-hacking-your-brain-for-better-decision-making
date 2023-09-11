@@ -1,5 +1,3 @@
-Developing Contingency Plans
-=====================================
 
 Contingency planning is a vital aspect of effective decision making. In this chapter, we will explore the importance of developing contingency plans and how they can enhance our decision-making abilities as Decision Hackers.
 

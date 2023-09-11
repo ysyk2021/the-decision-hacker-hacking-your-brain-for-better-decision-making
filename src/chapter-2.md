@@ -1,5 +1,3 @@
-Chapter 2: Understanding Cognitive Biases and Heuristics
-========================================================
 
 Cognitive biases and heuristics can impact decision-making by leading us to make irrational or suboptimal choices. In this chapter, we will explore how to identify common biases and heuristics, how they affect decision-making, and strategies for overcoming them.
 
